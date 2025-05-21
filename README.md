@@ -11,8 +11,8 @@
   <img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg" alt="Svelte" width="32" height="32" title="Svelte">
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="32" height="32" title="TypeScript">
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="32" height="32" title="Python">
-  <img src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/logo.svg" alt="MongoDB" width="32" height="32" title="MongoDB">
-  <img src="https://www.gstatic.com/devrel-devsite/prod/v2e0f7b8e1d7b7f2b2b2b2b2b2b2b2b2/firebase/2/svg/logo-logo.svg" alt="Firebase" width="32" height="32" title="Firebase">
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="32" height="32" title="MongoDB">
+  <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="Firebase" width="32" height="32" title="Firebase">
   <img src="https://raw.githubusercontent.com/centinol-alt/centinol-alt/main/assets/isar-icon.svg" alt="IsarDB" width="32" height="32" title="IsarDB">
   <img src="https://raw.githubusercontent.com/sqlite/sqlite/master/doc/images/sqlite350.gif" alt="SQLite" width="32" height="32" title="SQLite">
 </div>
