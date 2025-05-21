@@ -14,5 +14,5 @@
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="32" height="32" title="MongoDB">
   <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="Firebase" width="32" height="32" title="Firebase">
   <img src="https://raw.githubusercontent.com/centinol-alt/centinol-alt/main/assets/isar-icon.svg" alt="IsarDB" width="32" height="32" title="IsarDB">
-  <img src="https://raw.githubusercontent.com/sqlite/sqlite/master/doc/images/sqlite350.gif" alt="SQLite" width="32" height="32" title="SQLite">
+  <img src="https://www.svgrepo.com/show/374094/sqlite.svg" alt="SQLite" width="32" height="32" title="SQLite">
 </div>
