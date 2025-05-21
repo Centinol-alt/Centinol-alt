@@ -21,18 +21,31 @@ commit_count = sum(1 for event in events if event['type'] == 'PushEvent')
 chaos_level = min(commit_count * 10, 100)  # Adjust multiplier as needed
 chaos_width = (chaos_level / 100) * 180  # Scale for SVG bar (180px max)
 
-# Determine chaos message
+# Determine chaos bar color based on level
 if chaos_level <= 20:
+    bar_color = "#55ff55"  # Green for low chaos
     chaos_text = "All systems green"
+    tooltip_text = "Everything's under control... for now."
 elif chaos_level <= 60:
+    bar_color = "#ffff55"  # Yellow for medium chaos
     chaos_text = "Things are heating up"
+    tooltip_text = "I might've forgotten a semicolon somewhere."
 else:
-    chaos_text = "Send coffee!"
+    bar_color = "#ff5555"  # Red for high chaos
+    # More chaotic messages for high chaos
+    if chaos_level <= 80:
+        chaos_text = "Send coffee!"
+        tooltip_text = "I broke prod again!"
+    else:
+        chaos_text = "Regex betrayed me!"
+        tooltip_text = "I trusted regex, and now I'm paying for it."
 
-# Update SVG file
+# Update SVG file with color, tooltip, and custom message
 svg_content = f"""<svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
   <rect x="10" y="20" width="180" height="20" fill="#444" rx="10"/>
-  <rect x="10" y="20" width="{chaos_width}" height="20" fill="#ff5555" rx="10" id="chaos-bar"/>
+  <rect x="10" y="20" width="{chaos_width}" height="20" fill="{bar_color}" rx="10" id="chaos-bar">
+    <title>{tooltip_text}</title>
+  </rect>
   <text x="100" y="15" font-size="12" fill="#fff" text-anchor="middle" id="chaos-text">Chaos: {chaos_text}</text>
 </svg>"""
 
