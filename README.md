@@ -7,7 +7,7 @@
 ## My Tech Arsenal  
 *Wielded with 50% genius, 50% caffeine-fueled chaos!*  
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://raw.githubusercontent.com/flutter/community/main/icons/flutter-icon-128x128.png" alt="Flutter" width="32" height="32" title="Flutter">
+  <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="Flutter" width="32" height="32" title="Flutter">
   <img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg" alt="Svelte" width="32" height="32" title="Svelte">
   <img src="https://raw.githubusercontent.com/remix-run/remix/master/docs/static/img/typescript.svg" alt="TypeScript" width="32" height="32" title="TypeScript">
   <img src="https://raw.githubusercontent.com/python/cpython/HEAD/Doc/images/python-logo.png" alt="Python" width="32" height="32" title="Python">
