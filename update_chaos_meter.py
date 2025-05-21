@@ -40,14 +40,13 @@ else:
         chaos_text = "Regex betrayed me!"
         tooltip_text = "I trusted regex, and now I'm paying for it."
 
-# Update SVG file with color, tooltip, custom message, and percentage below the bar
-svg_content = f"""<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+# Update SVG file with color, tooltip, and custom message, including percentage
+svg_content = f"""<svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
   <rect x="10" y="20" width="180" height="20" fill="#444" rx="10"/>
   <rect x="10" y="20" width="{chaos_width}" height="20" fill="{bar_color}" rx="10" id="chaos-bar">
     <title>{tooltip_text}</title>
   </rect>
-  <text x="100" y="15" font-size="12" fill="#fff" text-anchor="middle" id="chaos-text">Chaos: {chaos_text}</text>
-  <text x="100" y="45" font-size="12" fill="#fff" text-anchor="middle" id="chaos-percentage">{int(chaos_level)}%</text>
+  <text x="100" y="15" font-size="12" fill="#fff" text-anchor="middle" id="chaos-text">{chaos_level}% Chaos: {chaos_text}</text>
 </svg>"""
 
 with open('chaos-meter/chaos-meter.svg', 'w') as f:
