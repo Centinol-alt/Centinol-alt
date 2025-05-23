@@ -25,5 +25,5 @@
 
 ## Let's Connect  
 - 📧 centinol@proton.me  
-- [X Profile](#) – Unfiltered chaos  
+- [X Profile](https://x.com/Centinol1) – Unfiltered chaos  
 - [Join the Gremlin Coders](#)
