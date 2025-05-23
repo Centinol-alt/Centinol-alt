@@ -54,7 +54,7 @@ else:
 
 # Update SVG file with color, tooltip, and custom message, spanning full width of README
 svg_content = f"""<svg width="100%" height="50" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="20" width="100%" height="20" fill="#444" rx="10"/>
+  <rect x="0" y="20" width="300" height="20" fill="#444" rx="10"/>
   <rect x="0" y="20" width="{chaos_level}%" height="20" fill="{bar_color}" rx="10" id="chaos-bar">
     <title>{tooltip_text}</title>
   </rect>
