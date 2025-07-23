@@ -1,5 +1,5 @@
 # Projects:
-- Zettle Notes [Here](zettlenotes.xyz)
+- Zettle Notes [Here](https://zettlenotes.xyz)
 
 ## Let's Connect  
 - 📧 centinol@proton.me  
