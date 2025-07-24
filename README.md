@@ -1,4 +1,4 @@
-# Well, I'm obviously Centinol
+# Hi I'm Centinol🤠
 
 ## Projects:
 - Zettle Notes [Try, Free!](https://zettlenotes.xyz)
