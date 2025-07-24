@@ -12,11 +12,11 @@ AI, Prompt Engineering, Full Stack, Chess, Crypto, Guardians of The Galaxy Sound
 Started coding by vibe coding a small Telegram bot for fun. After a few small projects, I built Zettle Notes, a note-taking app, entirely through vibe coding. So now I cry while reading docs at 3am AKA: I've taken an interest in programming, and now I’m learning the fundamentals to grow as a developer using AI to help speed up the whole "self-taught" arc. Oh and, Neovim btw.
 
 ## Skills
-**Languages:** JavaScript, TypeScript, Python, Lua
-**Tools & Frameworks:** Next.js, React, Svelte, Flutter
-**Data & APIs:** MongoDB, Firebase, MCP
-**Deployment:** Docker, Cloudflare, Vercel
-**Other:** AI tools, prompt engineering, vibe coding for quick prototypes
+- **Languages:** JavaScript, TypeScript, Python, Lua
+- **Tools & Frameworks:** Next.js, React, Svelte, Flutter
+- **Data & APIs:** MongoDB, Firebase, MCP
+- **Deployment:** Docker, Cloudflare, Vercel
+- **Other:** AI tools, prompt engineering, vibe coding for quick prototypes
 
 ## Let's Connect  
 - 📧 centinol@proton.me  
