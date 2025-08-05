@@ -9,7 +9,7 @@
 AI, Prompt Engineering, Full Stack, Chess, Crypto, Guardians of The Galaxy Soundtrack
 
 ## About me
-Started coding by vibe coding a small Telegram bot for fun. After a few small projects, I built Zettle Notes, a note-taking app, entirely through vibe coding. So now I cry while reading docs at 3am AKA: I've taken an interest in programming, and now I’m learning the fundamentals to grow as a developer using AI to help speed up the whole "self-taught" arc. Oh and, Neovim btw.
+Started coding by vibe coding a small Telegram bot for fun. After a few small projects, I built Zettle Notes, a note-taking app, entirely through vibe coding. So now I cry while reading docs at 3am, or in other words: I've taken an interest in programming, and now I’m learning the fundamentals to grow as a developer using AI to help speed up the whole "self-taught" arc. Oh and, Neovim btw.
 
 ## Skills
 - **Languages:** JavaScript, TypeScript, Python, Lua
