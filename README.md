@@ -1,5 +1,6 @@
 # Hi I'm Centinol🤠
-
+> I use arch linux btw
+> I use neovim btw
 ## Projects:
 - Zettle Notes [Try, Free!](https://zettlenotes.xyz)
 - Repo MCP [view](https://github.com/Centinol-alt/repo-mcp)
