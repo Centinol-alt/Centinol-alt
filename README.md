@@ -1,7 +1,7 @@
 # Hi I'm Centinol🤠
 > I use arch linux btw
 ## Projects:
-- Zettle Notes [Try, Free!](https://zettlenotes.xyz)
+- Zettle Notes [Vibe Coding Experiment](https://zettlenotes.xyz)
 - Repo MCP [view](https://github.com/Centinol-alt/repo-mcp)
 - Flutter/Dart MCP [view](https://github.com/Centinol-alt/flutter_mcp_server)
 
